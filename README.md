@@ -36,8 +36,8 @@ EDA involved in exploring the Trek-Bike raw data to answer key questions, such a
 5.	Bring forth the insights and analysis from the customers’ educational qualifications and occupations
 
 Key Data Points
-The project will focus on analyzing the following customer data:
 
+The project will focus on analyzing the following customer data:
 - 	Gender: Understanding the gender breakdown of Trek-Bike buyers to identify the gender that purchases the bike more and improve targeted marketing efforts.
 -   Income: Income data helps determine customer purchasing power and tailor product offerings and pricing strategies to different income segments.
 -   Education: Education level can reveal lifestyle patterns and preferences that may influence bike choices
